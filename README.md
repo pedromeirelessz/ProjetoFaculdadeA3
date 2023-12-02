@@ -256,7 +256,7 @@ Solicita ao usuário inserir uma operação válida (+, -, *, / ou x) para que s
 ## Youtube:
 ### O vídeo do projeto será postado no youtube, no seguinte link:  
 
-* https://www.youtube.com/watch?v=eRth1DgIhT8
+* https://www.youtube.com/watch?v=bGGdeYDyB4M
 
 ## Relatório do projeto
 
